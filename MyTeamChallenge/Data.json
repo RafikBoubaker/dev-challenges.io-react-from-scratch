@@ -1,0 +1,47 @@
+{
+    "members": [
+        {
+            "src": "assets/images/photo1.png",
+            "name": "Bill Mahoney",
+            "job": "product owner",
+            "className" : "person one"
+            
+        },
+        {
+            "src": "assets/images/photo2.png",
+            "name": "Saba Cabrera",
+            "job": "art director",
+            "className" : "person two"
+        },
+        {
+            "src": "assets/images/photo3.png",
+            "name": "Shae Le",
+            "job": "teach lead",
+            "className" : "person three"
+
+        }
+        ,
+        {
+            "src": "assets/images/photo4.png",
+            "name": "Skylah Lu",
+            "job": "ux designer",
+            "className" : "person four"
+           
+        },        
+        {
+            "src": "assets/images/photo5.png",
+            "name": "Griff Richards",
+            "job": "developer",
+            "className" : "person five"
+           
+        }
+        ,        
+        {
+            "src": "assets/images/photo6.png",
+            "name": "Stan Jhon",
+            "job": "developer",
+            "className" : "person six"
+        
+        }
+    ]
+}
